@@ -6,7 +6,9 @@ O que o site  vai conter ?
 
 - vai conter uma nav bar com a logo de uma phoenix e o nome ao lado e terá o link da pagina principal nele. 
 - espaço do cliente.
-- um botão escrito começar agora que leva para os planos.
+
+- um botão escrito "começar agora que leva para os planos.
+
 - Uma imagem inicial com alguem treinando e uma frase motivacional
 - uma parte contendo os planos
 - uma parte mostrando a experiencia que a pessoa terá com imagens que conterá equipamentos e o espaço de treino

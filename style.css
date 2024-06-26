@@ -1,0 +1,23 @@
+/*ESTILO GERAL*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    
+    
+}
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+/* ESTILO DO CABEÇALHO*/
+header{
+    padding: 40px 4%;
+    
+}
+header > .interface{
+
+}

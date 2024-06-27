@@ -25,12 +25,13 @@ body{
 }
 /* ESTILO DO CABEÇALHO*/
 header{
-    padding: 10px 2%;
+    padding: 0px 2%;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.116);
     
 }
 .logo{
     width: 150px;
+
 }
 img{
     width: 100% ;

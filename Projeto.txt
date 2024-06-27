@@ -22,3 +22,7 @@ cores que serão usadas
 
 fontes
 DM sans, sans-serif
+
+O que eu aprendi com esse projeto?
+
+- Como arrumar o header de uma forma melhor usando o display: flex e as configurações de align-items: center e justify-content: space-between

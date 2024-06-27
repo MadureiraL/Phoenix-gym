@@ -26,6 +26,9 @@ body{
     max-width: 1280px;
     margin: 0 auto;
 }
+.palavras-coloridas{
+    color: #B60728;
+}
 /* ESTILO DO CABEÇALHO*/
 header{
     padding: 0px 2%;
@@ -99,4 +102,17 @@ main img{
    max-width: 100%;
    height: auto;
    border-radius: 30px;
+}
+/*ESTILO DO MEIO DO SITE*/
+.meio-do-site{
+   width: 100%;
+   max-width: 1140px;
+   margin: 50px auto 30px;
+}
+section .titulos{
+    text-align: center;
+    margin: auto;
+}
+section h2{
+  font-size: ;  
 }
